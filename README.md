@@ -1,2 +1,2 @@
 # python_automation
-Automation Projects inPython
+Automation Projects in Python
